@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "Orange",
+      "category": "Electronic",
+      "freshness": "Fresh",
+      "price": 255,
+      "comment": "Good",
+      "date": "2022-11-04T00:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Piments",
+      "category": "Vegetables",
+      "freshness": "Frozen",
+      "price": 45,
+      "comment": "Peppers",
+      "date": "2022-11-10T00:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Aubergine",
+      "category": "Vegetables",
+      "freshness": "Dried",
+      "price": 87,
+      "comment": "Not bad",
+      "date": "2022-11-11T00:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "test2",
+      "category": "Electronic",
+      "freshness": "Fresh",
+      "price": 8,
+      "comment": "Electronic",
+      "date": "2022-11-14T00:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Banane",
+      "category": "Fruits",
+      "freshness": "Fresh",
+      "price": 25,
+      "comment": "GOod",
+      "date": "2022-11-04T00:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
